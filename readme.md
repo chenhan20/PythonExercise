@@ -9,10 +9,10 @@
 
 * [requests](https://pypi.org/project/requests/2.7.0/)
 * [pandas](https://pandas.pydata.org/) 
-* [beautifulsoup4]()
-* [lxml]()
+* [beautifulsoup4](https://pypi.org/project/beautifulsoup442/)
+* [lxml](https://pypi.org/project/lxml/)
 
-* [twstock]()
+* [twstock](https://twstock.readthedocs.io/zh_TW/latest/)
 
 ```
     pip install requests
